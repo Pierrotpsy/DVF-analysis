@@ -27,4 +27,4 @@ Ce fichier contient la comparaison entre les 5 années.
 
 ## Version html
 
-Pour trouver les versions html des fichiers, il faut aller dans **flask project/app/templates**
+Pour trouver les versions html des fichiers, il faut aller dans **notebook hml**
