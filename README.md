@@ -24,3 +24,7 @@ Ce fichier contient l'analyse de l'année 2021, c'est la même analyse qui a ét
 ## comp.ipynb
 
 Ce fichier contient la comparaison entre les 5 années.
+
+## Version html
+
+Pour trouver les versions html des fichiers, il faut aller dans **flask project/app/templates**
